@@ -5,8 +5,9 @@ A collection of advanced MoonLoader scripts for SAMP, including tools, automatio
 ---
 
 ## 📦 Scripts
-Browse all scripts here:
-[📦 View Scripts](https://github.com/wanted-md/moonloader-scripts/tree/main/scripts)
+
+- [📦 All Scripts](https://github.com/wanted-md/moonloader-scripts/tree/main/scripts)
+- **OilHelper** *(in development)*
 
 ---
 
