@@ -1,0 +1,5 @@
+{
+  "version": "1.0",
+  "script_url": "https://raw.githubusercontent.com/wanted-md/moonloader-scripts/main/scripts/OilHelper/OilHelper.lua",
+  "changelog": "Initial release"
+}
