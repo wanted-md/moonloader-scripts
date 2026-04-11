@@ -4,6 +4,14 @@
 
 ---
 
+## 📸 Скриншоты
+
+<p align="center">
+  <img src="https://i.imgur.com/W7tnokF.png" width="500">
+</p>
+
+---
+
 ## 🚀 Возможности
 
 * 📡 получение статуса сервера (ONLINE / NO RESPONSE)
