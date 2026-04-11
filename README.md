@@ -1,36 +1,44 @@
-# 🚀 MoonLoader Scripts
+# 🛠️ MoonLoader Scripts by Wanted
 
-A collection of advanced MoonLoader scripts for SAMP, including tools, automation and gameplay helpers.
+Коллекция моих скриптов для **SAMP / Arizona RP**, написанных с использованием **MoonLoader**, **Lua** и **ImGui**.
 
----
+## 📦 Что находится в репозитории
 
-## 📦 Scripts
+В этом репозитории собраны мои проекты и заготовки для MoonLoader-скриптов.
 
-- [📦 All Scripts](https://github.com/wanted-md/moonloader-scripts/tree/main/scripts)
-- **OilHelper** *(in development)*
+### Доступные скрипты
 
----
+* **OilHelper** — помощник для работы с нефтью, статистикой, логами и интерфейсом
+* В будущем здесь будут добавляться и другие мои скрипты
 
-## ⚙️ Features
-- Automation tools
-- Custom UI (ImGui)
-- Gameplay improvements
-- Optimized for Arizona RP
+## 🛠 Стек
 
----
+* Lua
+* MoonLoader
+* mimgui
+* SAMP Lua API
+* INI / JSON конфиги
 
-## 📥 Installation
-1. Install MoonLoader
-2. Move the script to:
-3. Launch the game
+## ℹ️ Важно
 
----
+* Большая часть проектов публикуется как **closed-source**
+* У каждого скрипта может быть своя структура файлов, конфиги и дополнительные ресурсы
+* Репозиторий используется как каталог и витрина моих работ
 
-## 🔒 Information
-This repository contains closed-source scripts.  
-Unauthorized copying, modification or redistribution is prohibited.
+## 📁 Структура
 
----
+```text
+moonloader-scripts/
+└── scripts/
+    ├── OilHelper/
+    └── README.md
+```
 
-## 👤 Author
-Wanted
+## 👤 Автор
+
+**Wanted**
+Разработчик MoonLoader-скриптов для SAMP / Arizona RP
+
+## 📌 Примечание
+
+Репозиторий постепенно оформляется и пополняется новыми проектами.
