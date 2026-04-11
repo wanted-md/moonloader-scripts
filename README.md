@@ -32,8 +32,6 @@
 ```text
 moonloader-scripts/
 └── scripts/
-    ├── OilHelper/
-    └── README.md
 ```
 
 ---
