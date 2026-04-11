@@ -1,10 +1,25 @@
 # 📦 Scripts
 
-This directory contains all available MoonLoader scripts.
+В этой папке находятся все доступные скрипты.
 
-## 📁 Structure
-Each script is placed in its own folder:
+---
 
-## ℹ️ Notes
-- All scripts are closed-source
-- Each script may have its own configuration and files
+## 🧭 Навигация
+
+* 🛢️ **OilHelper**
+  Скрипт-помощник для работы с нефтью
+  → [Открыть](./OilHelper)
+
+---
+
+## 📌 Описание
+
+Данная папка служит каталогом скриптов.
+
+Подробная информация, возможности и инструкции находятся внутри папки каждого скрипта (`README.md`).
+
+---
+
+## 🚧 Развитие
+
+Список скриптов будет обновляться по мере добавления новых проектов.
